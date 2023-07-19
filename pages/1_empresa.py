@@ -152,7 +152,7 @@ traffic_options = st.sidebar.multiselect(
 # ===========================
 # Extracao
 
-df = pd.read_csv(  'train.csv' )
+df = pd.read_csv('train.csv')
 
 # Limpeza
 df = clean_code( df )
