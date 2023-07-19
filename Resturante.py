@@ -8,7 +8,6 @@ import numpy as np
 
 
 
-from streamlit_folium import folium_static
 
 df = pd.read_csv ('https://raw.githubusercontent.com/siquette/Food_Delivery_Dataset/main/metadados/train.csv')
 
