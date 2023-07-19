@@ -7,9 +7,8 @@ import numpy as np
 
 
 
-from haversine import haversine
+
 from streamlit_folium import folium_static
-from PIL import Image
 
 df = pd.read_csv ('https://raw.githubusercontent.com/siquette/Food_Delivery_Dataset/main/metadados/train.csv')
 
