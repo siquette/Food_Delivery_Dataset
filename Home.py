@@ -90,19 +90,18 @@ Cada visão é representada pelo seguinte conjunto de métricas.
 1. Quantidade de pedidos únicos.
 2. Distância média percorrida.
 3. Tempo médio de entrega durante festival e dias normais.
-4. Desvio padrão do tempo de entrega durante festivais e dias
-normais.
-e. Tempo de entrega médio por cidade.
-f. Distribuição do tempo médio de entrega por cidade.
-g. Tempo médio de entrega por tipo de pedido.
+4. Desvio padrão do tempo de entrega durante festivais e dias normais.
+5. Tempo de entrega médio por cidade.
+6. Distribuição do tempo médio de entrega por cidade.
+7. Tempo médio de entrega por tipo de pedido.
 #### 3. Visão do crescimento dos entregadores
-a. Idade do entregador mais velho e do mais novo.
-b. Avaliação do melhor e do pior veículo.
-c. Avaliação média por entregador.
-d. Avaliação média por condições de trânsito.
-e. Avaliação média por condições climáticas.
-f. Tempo médido do entregador mais rápido.
-g. Tempo médio do entregador mais rápido por cidade
+1. Idade do entregador mais velho e do mais novo.
+2. Avaliação do melhor e do pior veículo.
+3. Avaliação média por entregador.
+4. Avaliação média por condições de trânsito.
+5. Avaliação média por condições climáticas.
+6. Tempo médido do entregador mais rápido.
+7. Tempo médio do entregador mais rápido por cidade
 
 ### Top 3 Insights de dados
 1. A sazonalidade da quantidade de pedidos é diária. Há uma variação
